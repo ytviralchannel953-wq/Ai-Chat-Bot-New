@@ -1,0 +1,5 @@
+{
+  "name": "AI Chat Bot",
+  "description": "A professional sports betting analysis chatbot powered by Gemini, designed as a template for Whop platform creators. Features real-time sports insights via Google Search grounding.",
+  "requestFramePermissions": []
+}
